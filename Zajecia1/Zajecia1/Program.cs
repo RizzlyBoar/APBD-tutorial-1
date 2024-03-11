@@ -19,6 +19,7 @@
     //Integer age.. <- java
 
     Console.WriteLine("Hello, World!");
+    Console.WriteLine("Zajecia1;");
     }
 
     public static void DoSth(){}

@@ -20,6 +20,7 @@
 
     Console.WriteLine("Hello, World!");
     Console.WriteLine("Zajecia1;");
+    Console.WriteLine("=========");
     }
 
     public static void DoSth(){}
